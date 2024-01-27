@@ -18,6 +18,7 @@ module.exports = {
       named: 'never',
       asyncArrow: 'always',
     }],
+    'linebreak-style': "off",
     // Temporarily disabled rules
     //
     // no-use-before-define is a good rule, but it would make the diff for
